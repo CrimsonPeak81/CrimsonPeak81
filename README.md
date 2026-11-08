@@ -1,5 +1,5 @@
 ### Hi, I'm Crimson
 
-I spend my time experimenting with reinforcement learning, currently focused on training bots through a custom made PPO Framework.
+I train Rocket League bots with reinforcement learning. Currently building a Rust port of [GigaLearnCPP](https://github.com/ZealanL/GigaLearnCPP) with Claude. Private for now.
 
 Discord: `CrimsonPeak81`
